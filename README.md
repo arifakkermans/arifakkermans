@@ -2,10 +2,10 @@
 
 I am Cloud Engineer currently working for VodafoneZiggo- responsible for designing and building a safe, infinitely scalable and welcoming landing zone.
 
-## I like
+## 👀 I like 
 
-- Open-source, Event-driven architectures and AWS
-- Climbing
+- 👨🏻‍💻Open-source, Event-driven architectures and AWS
+- 🧗‍♂️Climbing
 
 ### Connect with me
 
