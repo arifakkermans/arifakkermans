@@ -7,10 +7,6 @@ I am Cloud Engineer currently working for VodafoneZiggo- responsible for designi
 - 👨🏻‍💻Open-source, Event-driven architectures and AWS
 - 🧗‍♂️Climbing
 
-## Languages/Programs I'm Familiar With
-
-<img align="left" alt="Python" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" />
-<img align="left" alt="Terraform" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/terraform.svg" />
 
 ### Connect with me
 
