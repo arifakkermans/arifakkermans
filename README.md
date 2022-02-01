@@ -2,13 +2,6 @@
 
 I am Cloud Engineer currently working for VodafoneZiggo- responsible for designing and building a safe, infinitely scalable and welcoming landing zone.
 
-## 📚 Certifications
-
-**Amazon Web Services**
-- Solution Architect Associate
-- Solution Architect Professional
-
-
 ## 👀 I like 
 
 - 👨🏻‍💻Open-source, Event-driven architectures and AWS
